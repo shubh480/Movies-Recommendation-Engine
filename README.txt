@@ -1,5 +1,4 @@
 Movie Recommending System
-Project Report
 
 Shubham Balasaheb Patil
 Python Developer Intern
